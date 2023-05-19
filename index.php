@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include "partials/head.php" ?>
+<?php include "database/database.php" ?>
+
 <body_class="hold-transition sidebar-mini">
   <div class="wrapper">
     <?php include "partials/nav.php" ?>
